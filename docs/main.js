@@ -49,8 +49,8 @@ __webpack_require__.r(__webpack_exports__);
 var routes = [
     { path: '', redirectTo: '/itguy', pathMatch: 'full' },
     { path: 'itguy', component: _intro_view_intro_view_component__WEBPACK_IMPORTED_MODULE_3__["IntroViewComponent"] },
-    { path: 'itguygame.github.io/itguy/engineView', component: _engine_view_engine_view_component__WEBPACK_IMPORTED_MODULE_4__["EngineViewComponent"] },
-    { path: 'itguygame.github.io/itguy/informationView', component: _info_view_info_view_component__WEBPACK_IMPORTED_MODULE_5__["InfoViewComponent"] }
+    { path: 'itguy/engineView', component: _engine_view_engine_view_component__WEBPACK_IMPORTED_MODULE_4__["EngineViewComponent"] },
+    { path: 'itguy/informationView', component: _info_view_info_view_component__WEBPACK_IMPORTED_MODULE_5__["InfoViewComponent"] }
 ];
 var AppRoutingModule = /** @class */ (function () {
     function AppRoutingModule() {
